@@ -31,7 +31,7 @@ std::vector<int*> result = tree.queryRectangle(searchRectMin, searchRectMax);
 // result now contains e1, e2 and e4 
 ```
 
-For advanced usage see [example1.cpp](example1.cpp) and [example2.cpp](example2.cpp).
+For advanced usage see [example2.cpp](example2.cpp).
 
 ## License
 This software is licensed under the [MIT](LICENSE) license.
